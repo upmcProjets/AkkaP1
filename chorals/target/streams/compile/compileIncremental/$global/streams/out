@@ -1,0 +1,37 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0417.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0416.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0418.krn.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0417.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0416.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0418.krn.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0417.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0416.krn.scala, /home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0418.krn.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/chelbi/MASTER_2/PPC/Scala/chorals/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7ad38fde, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/chelbi/.sbt/boot/scala-2.10.5/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/chelbi/MASTER_2/PPC/Scala/chorals/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0416.krn.scala:1: expected class or object definition[0m
+[0m[[31merror[0m] [0mChordseq ( List (Chord (0 , List (Note (50, 100, 4000), Note (65, 100, 4000), Note (69, 100, 4000), Note (62, 100, 4000)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0417.krn.scala:1: expected class or object definition[0m
+[0m[[31merror[0m] [0mChordseq ( List (Chord (0 , List (Note (54, 100, 2000), Note (61, 100, 4000), Note (66, 100, 4000), Note (58, 100, 4000)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/chorals/bwv0418.krn.scala:1: expected class or object definition[0m
+[0m[[31merror[0m] [0mChordseq ( List (Chord (0 , List (Note (45, 100, 4000), Note (60, 100, 2000), Note (64, 100, 4000), Note (57, 100, 2000)))[0m
+[0m[[31merror[0m] [0m^[0m
+[0m[[31merror[0m] [0mthree errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

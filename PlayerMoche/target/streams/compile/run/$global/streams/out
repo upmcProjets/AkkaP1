@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mRunning upmc.akka.culto.player [0m
+[0m[[0minfo[0m] [0m[INFO] [01/17/2017 09:34:14.447] [main] [akka.remote.Remoting] Starting remoting[0m
+[0m[[0minfo[0m] [0m[INFO] [01/17/2017 09:34:15.249] [main] [akka.remote.Remoting] Remoting started; listening on addresses :[akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[0minfo[0m] [0m[INFO] [01/17/2017 09:34:15.263] [main] [akka.remote.Remoting] Remoting now listens on addresses: [akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[0minfo[0m] [0mcontrol c pour quitter [0m
+[0m[[0minfo[0m] [0m[WARN] [01/17/2017 09:36:09.617] [Player-akka.remote.default-remote-dispatcher-14] [akka.tcp://Player@127.0.0.1:6000/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FVoicerSystem%40127.0.0.1%3A5010-0] Association with remote system [akka.tcp://VoicerSystem@127.0.0.1:5010] has failed, address is now gated for [5000] ms. Reason: [Disassociated] [0m
+[0m[[0minfo[0m] [0m[WARN] [01/17/2017 10:38:34.300] [Player-akka.remote.default-remote-dispatcher-6] [akka.tcp://Player@127.0.0.1:6000/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FVoicerSystem%40127.0.0.1%3A5010-1] Association with remote system [akka.tcp://VoicerSystem@127.0.0.1:5010] has failed, address is now gated for [5000] ms. Reason: [Disassociated] [0m

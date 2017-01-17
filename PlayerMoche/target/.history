@@ -1,0 +1,13 @@
+run
+let fork in run := true
+exit
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run

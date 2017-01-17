@@ -1,0 +1,65 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.5[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 47166cb6, interfacing (CompilerInterface) with Scala compiler version 2.10.5[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/chelbi/.sbt/boot/scala-2.10.5/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/target/scala-2.10/classes[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:13: not found: object akka[0m
+[0m[[31merror[0m] [0mimport akka.actor.{Props, Actor, ActorRef, ActorSystem}[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:24: not found: value ActorSystem[0m
+[0m[[31merror[0m] [0mval system = ActorSystem("Player")[0m
+[0m[[31merror[0m] [0m             ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:53: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass Intrument (chan :Int) extends Actor{[0m
+[0m[[31merror[0m] [0m                                    ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:54: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:67: not found: type Actor[0m
+[0m[[31merror[0m] [0mclass PlayerActor () extends Actor{[0m
+[0m[[31merror[0m] [0m                             ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:68: not found: type ActorRef[0m
+[0m[[31merror[0m] [0m  var Instruments: List[ActorRef] = List([0m
+[0m[[31merror[0m] [0m                        ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:69: not found: value context[0m
+[0m[[31merror[0m] [0m    context.actorOf(Props(new Intrument(0)), "Instrument1"),[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:70: not found: value context[0m
+[0m[[31merror[0m] [0m    context.actorOf(Props(new Intrument(1)), "Instrument2"),[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:71: not found: value context[0m
+[0m[[31merror[0m] [0m    context.actorOf(Props(new Intrument(2)), "Instrument3"),[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:72: not found: value context[0m
+[0m[[31merror[0m] [0m    context.actorOf(Props(new Intrument(3)), "Instrument4"))[0m
+[0m[[31merror[0m] [0m    ^[0m
+[0m[[31merror[0m] [0m/home/chelbi/MASTER_2/PPC/Scala/akka_P1/TME13_code/PlayerMoche/src/main/scala/player.scala:74: missing parameter type for expanded function[0m
+[0m[[31merror[0m] [0mThe argument types of an anonymous function must be fully known. (SLS 8.5)[0m
+[0m[[31merror[0m] [0mExpected type was: ?[0m
+[0m[[31merror[0m] [0m  def receive = {[0m
+[0m[[31merror[0m] [0m                ^[0m
+[0m[[31merror[0m] [0m11 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m

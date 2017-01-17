@@ -1,0 +1,246 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+22 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Calculate$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Calculate.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Listener$$anonfun$receive$3.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Listener.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$receive$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$$anonfun$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$delayedInit$body.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiApproximation$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiApproximation.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiMessage.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Result$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Result.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Work$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Work.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker$$anonfun$calcuatePiFor$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker$$anonfun$receive$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker.class
+binary dependencies:
+3 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+22 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Calculate
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Calculate$
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Listener
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Listener$$anonfun$receive$3
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Master
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Master$$anonfun$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Master$$anonfun$receive$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Master$$anonfun$receive$2$$anonfun$applyOrElse$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Pi
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Pi$
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Pi$$anonfun$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Pi$delayedInit$body
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> PiApproximation
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> PiApproximation$
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> PiMessage
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Result
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Result$
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Work
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Work$
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Worker
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Worker$$anonfun$calcuatePiFor$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Worker$$anonfun$receive$1
+used names:
+104 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> !
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> %
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> &&
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> *
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> +
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> -
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> /
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ::
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> <init>
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ==
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> A1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> AbstractFunction1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> AbstractFunction2
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Actor
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ActorRef
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ActorSystem
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> AnyRef
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> App
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> B1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Calculate
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ClassTag
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Double
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Function1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Int
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> List
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Listener
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Long
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Master
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Nil
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> None
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Pi
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> PiApproximation
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> PiMessage
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Predef
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Product
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Props
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Result
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ScalaRunTime
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Serializable
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Statics
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> System
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Unit
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Work
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> Worker
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> _toString
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> acc
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> actor
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> actorOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> actorRef2Scala
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> akka
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> apply
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> asInstanceOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> augmentString
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> calcuatePiFor
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> calculate
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> context
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> currentTimeMillis
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> doubleHash
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> duration
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> eq
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> finalizeHash
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> foreach
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> format
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> i
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> immutable
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> intWrapper
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> isInstanceOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> java
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> lang
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> listener
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> master
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> materializeClassTag
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> mix
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> nrOfElements
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> nrOfMessages
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> nrOfResults
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> nrOfResults_=
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> nrOfWorkers
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> package
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> pi
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> pi_=
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> println
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> qual$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> reverse
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> runtime
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> scala
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> self
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> sender
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> shutdown
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> start
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> stop
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> system
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> to
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> toDouble
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> toString
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> typedProductIterator
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> unchecked
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> until
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> value
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> workers
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> workers_=
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> x$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> x$3
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> ||
+product stamps:
+22 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Calculate$.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Calculate.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Listener$$anonfun$receive$3.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Listener.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$1.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master$$anonfun$receive$2.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Master.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$$anonfun$2.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi$delayedInit$body.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Pi.class -> lastModified(1483949210000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiApproximation$.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiApproximation.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/PiMessage.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Result$.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Result.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Work$.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Work.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker$$anonfun$calcuatePiFor$1.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker$$anonfun$receive$1.class -> lastModified(1483949211000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/target/scala-2.11/classes/Worker.class -> lastModified(1483949211000)
+source stamps:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> hash(71eed8c95447621654da30796c2e00cfe134df86)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1426248356000)
+/Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> lastModified(1443615484000)
+/Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar -> lastModified(1414078488000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> akka.actor.Actor
+/Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.4.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBfIPTjAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw64ltbXQABHNlbGZzcQB+AAsfaCxQdAAHY29udGV4dHVxAH4ACQAAAEFzcQB+AAuzKuphdAAGbm90aWZ5c3EAfgAL3rJuMnQACGR1cmF0aW9uc3EAfgAL8PD1aXQAB1JlY2VpdmVzcQB+AAtAMV6cdAACcGlzcQB+AAu95tLIdAAEd2FpdHNxAH4AC/Nj3Y90AAZNYXN0ZXJzcQB+AAviUvwQdAAOY29weSRkZWZhdWx0JDJzcQB+AAtsQaq8dAANJGFzSW5zdGFuY2VPZnNxAH4ACwjwkzN0AAxuck9mRWxlbWVudHNzcQB+AAsrL9/ddAAMcHJvZHVjdEFyaXR5c3EAfgALQEV+NHQABmVxdWFsc3NxAH4AC910EN90AAxhc0luc3RhbmNlT2ZzcQB+AAtgYeW/dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAt3uxRXdAAHd29ya2Vyc3NxAH4AC5rpl1d0AA9QaUFwcHJveGltYXRpb25zcQB+AAvmuPjbdAAMc3luY2hyb25pemVkc3EAfgALyQckCnQADSRpc0luc3RhbmNlT2ZzcQB+AAtwXmCqdAAHcmVjZWl2ZXNxAH4AC5PAZFV0AApwcmVSZXN0YXJ0c3EAfgALR3eGQXQADWFyb3VuZFJlY2VpdmVzcQB+AAuaZ6HPdAAIY2FuRXF1YWxzcQB+AAuD/rADdAALcG9zdFJlc3RhcnRzcQB+AAvr2gNPdAAEbWFpbnNxAH4AC9cVEbR0AAhwb3N0U3RvcHNxAH4AC7di4Bx0AA1wcm9kdWN0UHJlZml4c3EAfgAL2dDvFnQACW5vdGlmeUFsbHNxAH4ACxc3LJh0AAtyZWFkUmVzb2x2ZXNxAH4AC3eDsuR0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC8g7z8t0AAJQaXNxAH4AC4HcCNd0AAxpc0luc3RhbmNlT2ZzcQB+AAthAuC2dAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC/b9oQl0AA5hcm91bmRQb3N0U3RvcHNxAH4AC3lUkNd0AAhMaXN0ZW5lcnNxAH4ACwij/Pl0AARXb3Jrc3EAfgALqSBX3HQABjxpbml0PnNxAH4AC2SdSSl0AAhwcmVTdGFydHNxAH4AC89u6/V0AAl1bmhhbmRsZWRzcQB+AAsUoJCndAAJY2FsY3VsYXRlc3EAfgAL1qTOUXQAAj09c3EAfgALeWRl0nQABWNsb25lc3EAfgALEX303HQACUNhbGN1bGF0ZXNxAH4AC6tnFNB0AAlQaU1lc3NhZ2VzcQB+AAvEIN1PdAAEY29weXNxAH4ACyMFvWF0AAZzZW5kZXJzcQB+AAs8NPbAdAAIdG9TdHJpbmdzcQB+AAsRry3edAAEYXJnc3NxAH4ACxrlPqJ0AAtuck9mUmVzdWx0c3NxAH4AC5HGKzR0AAIhPXNxAH4ACySBMrJ0AAhnZXRDbGFzc3NxAH4AC0FfKBx0AAZXb3JrZXJzcQB+AAtXm3j8dAAOY29weSRkZWZhdWx0JDFzcQB+AAt1YC5tdAAGUmVzdWx0c3EAfgALLl7ASHQABXN0YXJ0c3EAfgALrQWolHQAAm5lc3EAfgALMvdKhnQABXZhbHVlc3EAfgALM4bVpXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxuFm+10AA1jYWxjdWF0ZVBpRm9yc3EAfgALFifKAXQAAmVxc3EAfgALv6OV1nQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC3dW3tl0AAtkZWxheWVkSW5pdHNxAH4ACxwdweZ0AAIjI3NxAH4AC2/cSmh0AAhmaW5hbGl6ZXNxAH4AC1vv65t0AA5wcm9kdWN0RWxlbWVudHNxAH4AC23WYnN0AAhoYXNoQ29kZXNxAH4AC5leVCN0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAlzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAlxAH4AZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AtXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AtABwc3EAfgC5c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJ1MAAlpbmhlcml0ZWRxAH4AnUwAB3BhcmVudHNxAH4AnXhxAH4AvXNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAHNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAHNxAH4AtABwc3EAfgC5dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC8dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC8c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW5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+ANlxAH4A3HNxAH4A2XQAAmlvcQB+AOBzcQB+AM1xAH4BC3EAfgGMc3EAfgDNdAAGRXF1YWxzcQB+AYxzcQB+AM10AAlQaU1lc3NhZ2VzcQB+ANFzcQB+ANR1cQB+ANcAAAABcQB+AOBzcQB+AM1xAH4A0HNxAH4A0XNxAH4A1HVxAH4A1wAAAANzcQB+ANlxAH4A3HNxAH4A2XEAfgDecQB+AOBzcQB+AM1xAH4A4nEAfgGMc3EAfgCacQB+AKd1cQB+AKgAAAAAc3EAfgCqAHEAfgB1dXEAfgCsAAAAAHEAfgEedXEAfgCyAAAAAHNxAH4AtABwc3EAfgC5cQB+AL5zcQB+ALQAcHNxAH4AuXNxAH4AwXNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAHNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAHNxAH4AtABwc3EAfgC5dXEAfgDLAAAAA3NxAH4AzXQABUFjdG9yc3EAfgDRc3EAfgDUdXEAfgDXAAAAA3NxAH4A2XQABGFra2FzcQB+ANl0AAVhY3RvcnEAfgDgc3EAfgDNcQB+ANBzcQB+ANFzcQB+ANR1cQB+ANcAAAADc3EAfgDZcQB+ANxzcQB+ANlxAH4A3nEAfgDgc3EAfgDNcQB+AOJzcQB+ANFzcQB+ANR1cQB+ANcAAAACc3EAfgDZcQB+AOdxAH4A4HNxAH4AmnEAfgCndXEAfgCoAAAAAHNxAH4AqgBxAH4AHXVxAH4ArAAAAABxAH4BHnVxAH4AsgAAAABzcQB+ALQAcHNxAH4AuXEAfgC+c3EAfgC0AHBzcQB+ALlzcQB+AMFzcQB+ALQAcHNxAH4AuXVxAH4AmAAAAABzcQB+ALQAcHNxAH4AuXVxAH4AmAAAAABzcQB+ALQAcHNxAH4AuXVxAH4AywAAAANzcQB+AM10AAVBY3RvcnNxAH4A0XNxAH4A1HVxAH4A1wAAAANzcQB+ANl0AARha2thc3EAfgDZdAAFYWN0b3JxAH4A4HNxAH4AzXEAfgDQc3EAfgDRc3EAfgDUdXEAfgDXAAAAA3NxAH4A2XEAfgDcc3EAfgDZcQB+AN5xAH4A4HNxAH4AzXEAfgDic3EAfgDRc3EAfgDUdXEAfgDXAAAAAnNxAH4A2XEAfgDncQB+AOBzcQB+AJpxAH4Ap3VxAH4AqAAAAABzcQB+AKoAcQB+AFN1cQB+AKwAAAAAcQB+AR51cQB+ALIAAAAAc3EAfgC0AHBzcQB+ALlxAH4AvnNxAH4AtABwc3EAfgC5c3EAfgDBc3EAfgC0AHBzcQB+ALl1cQB+AJgAAAAAc3EAfgC0AHBzcQB+ALl1cQB+AJgAAAAAc3EAfgC0AHBzcQB+ALl1cQB+AMsAAAADc3EAfgDNdAAFQWN0b3JzcQB+ANFzcQB+ANR1cQB+ANcAAAADc3EAfgDZdAAEYWtrYXNxAH4A2XQABWFjdG9ycQB+AOBzcQB+AM1xAH4A0HNxAH4A0XNxAH4A1HVxAH4A1wAAAANzcQB+ANlxAH4A3HNxAH4A2XEAfgDecQB+AOBzcQB+AM1xAH4A4nNxAH4A0XNxAH4A1HVxAH4A1wAAAAJzcQB+ANlxAH4A53EAfgDgc3EAfgCacQB+AKd1cQB+AKgAAAAAc3EAfgCqAHEAfgBLdXEAfgCsAAAAAHEAfgDsdXEAfgCyAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AtABwc3EAfgC5cQB+AL5zcQB+ALQAcHNxAH4AuXNxAH4AwXNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAHNxAH4AtABwc3EAfgC5dXEAfgCYAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCecQB+AKd1cQB+AKgAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgIueHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADEwABXZhbHVlcQB+AAx4cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNxAH4AzXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3EAfgDRc3EAfgDUdXEAfgDXAAAAAnNxAH4A2XEAfgDncQB+AOBzcQB+AKoAcQB+AD91cQB+AKwAAAAAc3EAfgDNdAAEVW5pdHEAfgI9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4CLnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Ar3QABVBsYWlucQB+AG1zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AM5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALxzcQB+AM10AAVBcnJheXEAfgI9dXEAfgDLAAAAAXNxAH4AzXQABlN0cmluZ3NxAH4A0XNxAH4A1HVxAH4A1wAAAANzcQB+ANlxAH4A3HNxAH4A2XEAfgDecQB+AOBzcQB+ALQAcHNxAH4AuXVxAH4AywAAAARzcQB+AM10AANBcHBxAH4CPXNxAH4AzXQAC0RlbGF5ZWRJbml0cQB+Aj1zcQB+AM1xAH4A0HEAfgJac3EAfgDNcQB+AOJxAH4CPXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZgkPkv3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AG0vVXNlcnMvYWdvbmMvQ1VSU09TX1VQTUMvMjAxNi9QUEMvQUNUT1JTLzIwMTcvc2VtYWluZSAxMy9zb2Z0ZG9jcy9leGVtcGxlcy9leGVtcGxlNS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUce7YyVRHYhZU2jB5bC4Az+E034Y=
+external apis:
+0 items
+source infos:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/ACTORS/2017/semaine 13/softdocs/exemples/exemple5/src/main/scala/Pi.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUwhMdP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAYC9Vc2Vycy9hZ29uYy9DVVJTT1NfVVBNQy8yMDE1L1BQQy9zZW1haW5lIDkvc29mdGRvY3MvZXhlbXBsZXMvZXhlbXBsZTUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWYJD5L91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAbS9Vc2Vycy9hZ29uYy9DVVJTT1NfVVBNQy8yMDE2L1BQQy9BQ1RPUlMvMjAxNy9zZW1haW5lIDEzL3NvZnRkb2NzL2V4ZW1wbGVzL2V4ZW1wbGU1L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
